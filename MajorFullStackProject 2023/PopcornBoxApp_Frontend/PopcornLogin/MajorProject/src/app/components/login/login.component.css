@@ -1,0 +1,11 @@
+body {
+   
+    /* background-image: url(../../assets/images/login&register/Login_background.jfif); */
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+

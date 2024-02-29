@@ -1,0 +1,19 @@
+
+body{
+  /* background-image: url(../../assets/images/login&register/register_background.jfif); */
+  width: 100%;
+}
+.last {
+color: white;
+}
+ 
+
+  p {
+    font-family: Lato;
+  }
+  .error-message {
+    color: red;
+  }
+  input.ng-touched.ng-invalid {
+    border: 1px solid red;
+  }

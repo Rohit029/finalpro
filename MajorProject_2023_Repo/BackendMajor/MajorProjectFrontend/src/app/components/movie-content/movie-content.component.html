@@ -1,0 +1,48 @@
+<div class="carousel-container">
+    <div class="carousel">
+      <div class="slider">
+        <div class="slide-content">
+            <h1 class="movie-title">Luca</h1>
+            <p class="movie-des">Sit amet consectetur adipisicing elit. Quam distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
+        </div>
+        <img src="../../assets/images/carousel/loca.png" alt="Slider">    
+    </div>
+    </div>
+</div>
+  
+  
+  <br> 
+
+  <div>
+    <app-search-content (searchTextChanged)="onSearchTextEntered($event)"></app-search-content>
+  </div>
+  
+  
+    <h1 class="title">Top Movies For You</h1>
+      <div class="movies-list">
+          <button class="pre-btn"><img src="../../../assets/images/moviecard/pre.png" alt=""></button>
+          <button class="nxt-btn"><img src="../../../assets/images/moviecard/nxt.png" alt=""></button>
+          <div class="card-container">
+              <!-- <div class="card" *ngFor="let movie of movies" (mouseover)="playVideo()" (mouseout)="stopVideo()"> -->
+                <div class="card" *ngFor="let movie of movies" >
+                <div class="searchresult" *ngIf="searchText === '' || movie.title.toLowerCase().includes(searchText)">
+                <div class="video-card">
+                  <img [src]="movie.posterUrl" class="card-img" alt="" [hidden]="showVideo">
+                  <video  class="card-vid-top" [src]="movie.trailerUrl" playsinline controls autoplay muted [hidden]="!showVideo"></video>
+                </div>
+                  
+                  <div class="card-body">
+                      <h2 class="name">{{movie.title}}</h2>   
+                      <div class="row">
+                        <div class="col d-flex justify-content-center">
+                          <button [routerLink]="['/play-video', movie.id]" class="watchlist-btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="17" height="17"><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path></svg></button> 
+                        </div>
+                      </div>                                
+                  </div>
+              </div>
+            </div>
+          </div>
+      </div>
+  
+  
+     

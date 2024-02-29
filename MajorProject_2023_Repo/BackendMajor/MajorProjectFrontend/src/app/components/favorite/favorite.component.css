@@ -1,0 +1,13 @@
+.title {
+    color: var(--text-color);
+    opacity: 0.9;
+    padding-left: 4%;
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.col{
+    row-gap: 20px;
+    column-gap: 20px;
+}

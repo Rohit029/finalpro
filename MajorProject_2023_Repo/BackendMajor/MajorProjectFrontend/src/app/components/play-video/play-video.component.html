@@ -1,0 +1,22 @@
+  <div class="container">
+    <div class="con d-flex justify-content-center">
+        <video id="show" class="card-img-top" [src]="movie.trailerUrl" controls playsInline autoplay muted></video>
+      </div>
+  </div>
+  <div id="heart">
+    <button class="watchlist-btn"  (click)="addToFavMovie()"><i class="fa-solid fa-heart fa-lg"></i>Add to Favorite</button>
+  </div>
+
+  <div class="container">
+    <div class="d-flex flex-column mb-3">
+      <h1 class="title"><i id="f" class="f fa-solid fa-video"></i> : {{movie.title}}</h1>
+      <a class="link">Movies  |  {{movie.releaseDate | date}}    |    {{movie.genre}}</a>
+      <p class="description">{{movie.description}}  </p>
+    </div>
+  </div>
+
+  <section>
+    <div class="container">
+      <div class="movie-content"></div>
+    </div>
+  </section>

@@ -1,0 +1,78 @@
+<div mat-dialog-title>
+    <h1>Song Form</h1>
+</div>
+<form [formGroup]="mediaForm" (ngSubmit)="onAddSong()">
+    <div mat-dialog-content class="content">
+        <div class="row">
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Title</mat-label>
+                    <input matInput type="text" placeholder="Song Title" formControlName="title">
+                </mat-form-field>
+            </div>
+            <div class="col">
+                <mat-form-field class="example-form-field">
+                    <mat-label>Release date</mat-label>
+                    <input matInput [matDatepicker]="datepicker" formControlName="releaseDate">
+                    <mat-hint>MM/DD/YYYY</mat-hint>
+                    <mat-datepicker-toggle matIconSuffix [for]="datepicker"></mat-datepicker-toggle>
+                    <mat-datepicker #datepicker>
+                        <mat-datepicker-actions>
+                            <button mat-button matDatepickerCancel>Cancel</button>
+                            <button mat-raised-button color="primary" matDatepickerApply>Apply</button>
+                        </mat-datepicker-actions>
+                    </mat-datepicker>
+                </mat-form-field>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Lyrics</mat-label>
+                    <input matInput type="text" placeholder="Lyrics" formControlName="lyrics">
+                </mat-form-field>
+            </div>
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Singer</mat-label>
+                    <input matInput type="text" placeholder="Singer" formControlName="singer">
+                </mat-form-field>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Genre</mat-label>
+                    <input matInput type="text" placeholder="Genre" formControlName="genre">
+                </mat-form-field>
+            </div>
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Country</mat-label>
+                    <input matInput type="text" placeholder="Country" formControlName="country">
+                </mat-form-field>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Poster</mat-label>
+                    <input matInput type="text" placeholder="Poster" formControlName="posterUrl">
+                </mat-form-field>
+            </div>
+            <div class="col">
+                <mat-form-field [style.width.px]=400 appearance="outline">
+                    <mat-label>Audio</mat-label>
+                    <input matInput type="text" placeholder=".Mp4" formControlName="audioUrl">
+                </mat-form-field>
+            </div>
+        </div>
+    </div>
+    <div mat-dialog-actions class="action">
+        <button mat-raised-button type="button" [mat-dialog-close]="false">Cancel</button>
+        <button mat-raised-button color="primary" type="submit">{{data ? 'Update' : 'Save'}}</button>
+    </div>
+</form>

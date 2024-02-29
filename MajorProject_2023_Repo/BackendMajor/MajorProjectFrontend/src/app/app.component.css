@@ -1,0 +1,23 @@
+:root {
+    /* --background: #0c111b; */
+    --background: black;
+    --text-color: #fff;
+    --button: #1f80e0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    background: var(--background);
+    position: relative;
+    font-family: "Roboto", sans-serif;
+}

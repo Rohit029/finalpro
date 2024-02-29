@@ -1,0 +1,870 @@
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.csproj.AssemblyReference.cache
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.AssemblyInfoInputs.cache
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.AssemblyInfo.cs
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.csproj.CoreCompileInputs.cache
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\appsettings.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MajorProject.exe
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MajorProject.deps.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MajorProject.runtimeconfig.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MajorProject.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MajorProject.pdb
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.MajorProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.build.MajorProject.props
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MajorProject.props
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MajorProject.props
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\scopedcss\bundle\MajorProject.styles.css
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.csproj.CopyComplete
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\refint\MajorProject.dll
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.pdb
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\MajorProject.genruntimeconfig.cache
+C:\Users\pratyushsh\source\repos\Feb_2023\DotNet Core\MajorProject\obj\Debug\net6.0\ref\MajorProject.dll
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.dll
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\refint\MajorProject.dll
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.pdb
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\appsettings.Development.json
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\appsettings.json
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.exe
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.deps.json
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.runtimeconfig.json
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.pdb
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Azure.Core.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Azure.Identity.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Humanizer.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MessagePack.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Build.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Common.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.CodeDom.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Memory.Data.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Text.Json.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\pratyush_git\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.csproj.AssemblyReference.cache
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.AssemblyInfoInputs.cache
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.AssemblyInfo.cs
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.csproj.CoreCompileInputs.cache
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.MvcApplicationPartsAssemblyInfo.cs
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.MvcApplicationPartsAssemblyInfo.cache
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.MajorProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.build.MajorProject.props
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MajorProject.props
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MajorProject.props
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets.pack.json
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\scopedcss\bundle\MajorProject.styles.css
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.csproj.CopyComplete
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.genruntimeconfig.cache
+E:\pratyush_git\BackendMajor\MajorProject\obj\Debug\net6.0\ref\MajorProject.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\appsettings.Development.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\appsettings.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.exe
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.deps.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.runtimeconfig.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MajorProject.pdb
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Azure.Core.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Azure.Identity.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Humanizer.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MessagePack.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Build.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Common.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Configuration.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Packaging.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Protocol.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\NuGet.Versioning.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.CodeDom.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.Convention.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Text.Json.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.csproj.AssemblyReference.cache
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.AssemblyInfoInputs.cache
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.AssemblyInfo.cs
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.csproj.CoreCompileInputs.cache
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.MvcApplicationPartsAssemblyInfo.cs
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.MvcApplicationPartsAssemblyInfo.cache
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.MajorProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.build.MajorProject.props
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MajorProject.props
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MajorProject.props
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets.build.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\staticwebassets.development.json
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\scopedcss\bundle\MajorProject.styles.css
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.csproj.CopyComplete
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\refint\MajorProject.dll
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.pdb
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\MajorProject.genruntimeconfig.cache
+E:\Rohit\MajorProject_2023_Repo\BackendMajor\MajorProject\obj\Debug\net6.0\ref\MajorProject.dll

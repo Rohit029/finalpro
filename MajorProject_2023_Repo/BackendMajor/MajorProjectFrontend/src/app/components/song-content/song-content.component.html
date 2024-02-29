@@ -1,0 +1,56 @@
+<div class="d-flex justify-content-center">
+    <div class="songcard">
+        <img [src]="poster" class="card-img-top" alt="..." />
+        <div class="song-card-body d-flex justify-content-center">
+            <h5 class="card-title"></h5>
+            <audio id="ado" controls [src]="audio">
+            </audio>
+        </div>
+    </div>
+</div>
+
+<div>
+    <app-search-content (searchTextChanged)="onSearchTextEntered($event)"></app-search-content>
+</div>
+
+
+<h1 class="title">Top-rated Songs</h1>
+<div class="movies-list">
+    <button class="pre-btn"><img src="../../../assets/images/moviecard/pre.png" alt=""></button>
+    <button class="nxt-btn"><img src="../../../assets/images/moviecard/nxt.png" alt=""></button>
+    <div class="card-container">
+        <div class="card" *ngFor="let song of songs">
+            <div class="searchresult" *ngIf="searchText === '' || song.title.toLowerCase().includes(searchText)">
+
+            <div>
+                <img [src]="song.posterUrl" class="card-img" alt="">
+            </div>
+
+            <div class="card-body">
+                <h2 class="name">{{song.title}}</h2>
+                <div class="row">
+                    <div class="col d-flex justify-content-center">
+                        <button (click)="playSong(song.title, song.posterUrl, song.audioUrl)" class="watchlist-btn"><svg
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="24" height="24">
+                                <path
+                                    d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z">
+                                </path>
+                            </svg></button>
+                    </div>
+                    <!-- <div class="col">
+                        <button class="watchlist-btn"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"
+                                width="24" height="24">
+                                <path
+                                    d="M8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Zm2.33-11.5c-1.22 0-1.83.5-2.323 1.136C7.513 5 6.903 4.5 5.682 4.5c-1.028 0-2.169.784-2.169 2.5 0 1.499 1.493 3.433 3.246 4.517.52.321.89.479 1.248.484.357-.005.728-.163 1.247-.484C11.007 10.433 12.5 8.5 12.5 7c0-1.716-1.14-2.5-2.17-2.5Z">
+                                </path>
+                            </svg></button>
+                    </div> -->
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+
+

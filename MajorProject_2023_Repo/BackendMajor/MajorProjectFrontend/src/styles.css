@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons';
+@import '~@angular/material/prebuilt-themes/pink-bluegrey.css';
+
+:root {
+    --background: #0c111b;
+    --text-color: #fff;
+    --button: #1f80e0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    background: var(--background);
+    position: relative;
+    font-family: "Roboto", sans-serif;
+}
+html, body { height: 100%; }
+
